@@ -45,4 +45,10 @@ public class DemoTest
     {
         Assert.True(true);
     }
+
+    [Fact]
+    public void Test10()
+    {
+        Assert.True(true);
+    }
 }
